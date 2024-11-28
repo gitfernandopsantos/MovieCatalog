@@ -1,0 +1,10 @@
+Paleta Neon
+Ciano (#00FFFF)
+
+Magenta (#FF00FF)
+
+Verde Limão (#32CD32)
+
+Rosa Choque (#FF1493)
+
+Azul Elétrico (#7DF9FF)
